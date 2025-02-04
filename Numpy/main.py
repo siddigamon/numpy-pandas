@@ -12,5 +12,6 @@ df = pd.DataFrame(data, index = ["day1", "day2", "day3"])
 print(df) 
 print("-----------------") 
 print(df.loc[['day1', 'day2']])
+print(df)
 
 
